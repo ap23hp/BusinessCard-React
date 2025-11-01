@@ -6,7 +6,7 @@ This project showcases a personal profile card with clean UI, contact buttons, a
 ---
 
 ## 🚀 Live Demo  
-🔗 **[[Click here to view the project](https://your-live-demo-link-here.com](https://ap23hp.github.io/BusinessCard-React/))**  
+https://ap23hp.github.io/BusinessCard-React/
 
 
 ---
