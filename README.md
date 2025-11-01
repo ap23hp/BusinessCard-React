@@ -13,7 +13,8 @@ This project showcases a personal profile card with clean UI, contact buttons, a
 
 ## 🖼️ Screenshot  
 
-<img width="747" height="853" alt="image" src="https://github.com/user-attachments/assets/b33dda67-edb6-40c5-90d0-7ec8eea2e48d" />
+<img width="672" height="846" alt="image" src="https://github.com/user-attachments/assets/11217a32-6d62-469d-9dca-23389a6a0224" />
+
 
 ---
 
