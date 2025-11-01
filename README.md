@@ -1,16 +1,29 @@
-# React + Vite
+# 💼 Digital Business Card — React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **Digital Business Card** built with React, inspired by the "Laura Smith" design from Scrimba.  
+This project showcases a personal profile card with clean UI, contact buttons, and social media icons — styled using CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo  
+🔗 **[Click here to view the project](https://your-live-demo-link-here.com)**  
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshot  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="747" height="853" alt="image" src="https://github.com/user-attachments/assets/b33dda67-edb6-40c5-90d0-7ec8eea2e48d" />
+
+---
+
+## 🛠️ Technologies Used  
+
+- ⚛️ **React (Vite)** — Component-based UI framework  
+- 🎨 **CSS3** — For styling and layout  
+- 🧩 **JavaScript (ES6)** — Logic and functionality  
+- 🔠 **Google Fonts (Inter)** — For typography  
+- 🖼️ **Icons8 / Simple Icons** — For button & footer icons
+
+
+
